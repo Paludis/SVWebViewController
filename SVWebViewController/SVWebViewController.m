@@ -205,8 +205,8 @@
                           self.forwardBarButtonItem,
                           flexibleSpace,
                           refreshStopBarButtonItem,
-                          flexibleSpace,
-                          self.actionBarButtonItem,
+//                          flexibleSpace,
+//                          self.actionBarButtonItem,
                           fixedSpace,
                           nil];
         
